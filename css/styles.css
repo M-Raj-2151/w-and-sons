@@ -1,0 +1,156 @@
+body {
+  font-family: 'Montserrat';
+}
+#title {
+  background: linear-gradient(
+    -119deg,
+    black 00%,
+    darkgrey 100%
+    );
+  color: #fff;
+}
+
+.col-lg-6{
+  text-align: center;
+}
+.contact-us-btn {
+  margin: 10% 0 3%;
+}
+
+.about-us-btn {
+  margin: 10% 0 3%;
+}
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-weight: bold;
+  font-size: 2.5rem;
+}
+
+h1 {
+  font-family: "Montserrat";
+  font-weight: 900;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+h3{
+  font-family: "montserrat";
+  font-weight: bold;
+  font-size: 2.3rem;
+}
+
+
+.container-fluid{
+  padding: 3% 15%;
+}
+
+/* navbar */
+.navbar {
+  padding-left: 0;
+  padding-bottom: 30px;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.3rem;
+  font-weight: "montserrat-light";
+}
+.logo-image{
+  width: 90%;
+  border-radius: 5%;
+}
+/* features */
+
+#features{
+  padding: 7% 15%;
+  background-color: #fff;
+}
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+.icon{
+  color: GREY;
+  transition: color .5s;
+  margin-bottom: 1rem;
+}
+.icon:hover{
+  color: black;
+}
+
+
+   /* carousels */
+#Wire-cut{
+  color: #fff;
+  background: linear-gradient(
+    -119deg,
+    black 0%,
+    darkgrey 100%
+    );
+  text-align: center;
+}
+#EDM{
+  color: #fff;
+  background: linear-gradient(
+    -119deg,
+    black 0%,
+    darkgrey 100%
+    );
+  text-align: center;
+  margin: 7% 0;
+}
+.carousel-item{
+  padding: 3% 15% 7%;
+}
+.carousel-heading{
+  padding-top: 3%;
+}
+
+
+/* PRICING CARDS */
+
+.card {text-align: center;
+}
+#pricing{
+  padding: 100px;
+  text-align: center;
+}
+.card-content{
+  font-family: "montserrat";
+  font-weight: bold;
+  font-size: 2.3rem;
+}
+.card-header{
+  font-family: "montserrat";
+  font-weight: normal;
+  font-size: 1.5rem;
+}
+
+/* CTA */
+
+#cta{
+  text-align: center;
+  padding: 4% 4%;
+  margin-bottom: 7%;
+  background: linear-gradient(
+    -119deg,
+    black 20%,
+    darkgrey 100%
+    );
+}
+.social-media-heading{
+  color: #fff;
+}
+.fa-7x{
+  padding: 3% 7%;
+}
+#footer{
+  text-align: center;
+  margin-bottom: 20px;
+}
+.Copyright-tag{
+  padding: 3%;
+}
