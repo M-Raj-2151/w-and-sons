@@ -6,6 +6,7 @@ body {
 /* Headings */
 .big-headings {
   font-family: "montserrat";
+  color: #000;
   font-weight: bold;
   font-size: 2.3rem;
   padding: 3% 0;
